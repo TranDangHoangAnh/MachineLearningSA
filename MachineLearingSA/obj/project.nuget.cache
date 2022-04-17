@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXzuS6OmjxFF+KYoNNAp35JJD4mejxFDTWw05qrOoeIRKwDRajZwE1yu16gjUx6+3e6EGzZPOTh8QAwSlMmNgQ==",
+  "dgSpecHash": "jTn1zcSIxH2pX6MjlvRon57IIDtbad9w6spWeGVognZ75MOZgFq/fGMOqzaZoSMDyaEa3Il7KDwIMPQ8ogK8bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearingSA\\MachineLearingSA\\MachineLearningSA.csproj",
+  "projectFilePath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearningSA\\MachineLearingSA\\MachineLearningSA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI PC\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\MSI PC\\.nuget\\packages\\microsoft.ml\\1.7.1\\microsoft.ml.1.7.1.nupkg.sha512",

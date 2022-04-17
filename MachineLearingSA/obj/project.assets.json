@@ -5538,11 +5538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI PC\\source\\repos\\MachineLearingSA\\MachineLearingSA\\MachineLearningSA.csproj",
+      "projectUniqueName": "C:\\Users\\MSI PC\\source\\repos\\MachineLearningSA\\MachineLearingSA\\MachineLearningSA.csproj",
       "projectName": "MachineLearningSA",
-      "projectPath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearingSA\\MachineLearingSA\\MachineLearningSA.csproj",
+      "projectPath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearningSA\\MachineLearingSA\\MachineLearningSA.csproj",
       "packagesPath": "C:\\Users\\MSI PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearingSA\\MachineLearingSA\\obj\\",
+      "outputPath": "C:\\Users\\MSI PC\\source\\repos\\MachineLearningSA\\MachineLearingSA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
